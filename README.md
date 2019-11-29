@@ -10,4 +10,4 @@ save_1frame_to_mat(),
 save_5frame_to_mat(),
 save_label_to_mat(),
 
-split_ucf11.py is from From https://github.com/microsoft/CNTK/tree/master/Examples/Video/DataSets/UCF11
+split_ucf11.py is from https://github.com/microsoft/CNTK/tree/master/Examples/Video/DataSets/UCF11
