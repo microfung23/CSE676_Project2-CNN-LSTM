@@ -1,6 +1,6 @@
 # CSE676_Project2-CNN-LSTM
 
-Download Dataset from:
+Download UCF11 Dataset from:
 https://www.crcv.ucf.edu/data/UCF_YouTube_Action.php
 
 Run these function the first time:
