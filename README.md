@@ -9,5 +9,6 @@ split_train_test_map(),
 save_1frame_to_mat(),
 save_5frame_to_mat(),
 save_label_to_mat(),
+To generate training and testing samples
 
 split_ucf11.py is from https://github.com/microsoft/CNTK/tree/master/Examples/Video/DataSets/UCF11
